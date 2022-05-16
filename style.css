@@ -1,10 +1,14 @@
 body {
-  font-family: sans-serif;
+  font-family:    font-family: 'Radio Canada', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   color: #172b4d;
   background-color: #0279bf;
   display: flex;
   align-items: start;
   background-image: url('https://www.independent.ie/incoming/071f2/39561599.ece/AUTOCROP/w1240/Spine-map.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 div {
