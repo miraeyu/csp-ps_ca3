@@ -1,5 +1,5 @@
 body {
-  font-family:    font-family: 'Radio Canada', sans-serif;
+  font-family:'Radio Canada', sans-serif;
   font-family: 'Roboto Mono', monospace;
   color: #172b4d;
   background-color: #0279bf;
@@ -10,6 +10,8 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
+
+
 
 div {
   border-radius: 3px;
@@ -68,7 +70,7 @@ div {
 
 .ghost {
   opacity: .1;
-  color: #000;
+  color: rgb(184, 63, 63);
   background-color: #000;
 }
 
